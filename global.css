@@ -4,7 +4,7 @@
 
 @layer base {
   .text-edge-outline {
-    -webkit-text-stroke: 3px rgb(5, 126, 36);
+    -webkit-text-stroke: 1px rgb(5, 126, 36);
   }
 } 
 
